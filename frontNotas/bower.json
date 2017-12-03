@@ -1,0 +1,10 @@
+{
+  "name": "frontNotas",
+  "authors": [
+    "Lucas Montanheiro <lucasmontanheiro10@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": ""
+}
